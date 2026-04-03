@@ -36,7 +36,21 @@ Powered by SAM 3 and multimodal large models, it enables high-fidelity reconstru
 
 > [!WARNING]
 > **Please note**: Our GitHub repository currently trails behind our web-based service. For the most up-to-date features and performance, we recommend using our web platform.
+---
+## 💬 Join WeChat Group
 
+Welcome to join our WeChat group to discuss and exchange ideas! Scan the QR code below to join:
+
+<p align="center">
+  <img src="/static/wechatGroup.jpg" width="70%" alt="WeChat Group QR Code"/>
+  <br/>
+  <em>Scan to join the Edit Banana community</em>
+</p>
+
+> [!TIP]
+> If the QR code has expired, please submit an [Issue](https://github.com/BIT-DataLab/Edit-Banana/issues) to request an updated one.
+
+---
 ## 📑 Table of Contents
 
 - [📸 Effect Demonstration](#-effect-demonstration)
@@ -325,20 +339,6 @@ Customize the pipeline behavior in `config/config.yaml`:
 
 ---
 
-## 💬 Join WeChat Group
-
-Welcome to join our WeChat group to discuss and exchange ideas! Scan the QR code below to join:
-
-<p align="center">
-  <img src="/static/wechatGroup.jpg" width="70%" alt="WeChat Group QR Code"/>
-  <br/>
-  <em>Scan to join the Edit Banana community</em>
-</p>
-
-> [!TIP]
-> If the QR code has expired, please submit an [Issue](https://github.com/BIT-DataLab/Edit-Banana/issues) to request an updated one.
-
----
 
 ## 🤝 Contribution Guidelines
 

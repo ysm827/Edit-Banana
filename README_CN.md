@@ -36,7 +36,20 @@
 
 > [!WARNING]
 > **请注意**：我们的 GitHub 仓库代码目前落后于 Web 服务端。为了体验最新功能和最佳性能，我们强烈建议您使用我们的在线网页平台。
+## 💬 加入微信讨论群
 
+欢迎加入我们的微信群讨论与交换意见！可以扫描下方二维码进群：
+
+<p align="center">
+  <img src="/static/wechatGroup.jpg" width="70%" alt="WeChat Group QR Code"/>
+  <br/>
+  <em>扫码加入 Edit Banana 交流群</em>
+</p>
+
+> [!TIP]
+> 如果二维码已过期，请提交 [Issue](https://github.com/BIT-DataLab/Edit-Banana/issues) 申请更新。
+
+---
 ## 📑 目录
 
 - [📸 效果展示](#-效果展示)
@@ -310,20 +323,7 @@ python main.py -i input/test_diagram.png
 
 ---
 
-## 💬 加入微信讨论群
 
-欢迎加入我们的微信群讨论与交换意见！可以扫描下方二维码进群：
-
-<p align="center">
-  <img src="/static/wechatGroup.jpg" width="70%" alt="WeChat Group QR Code"/>
-  <br/>
-  <em>扫码加入 Edit Banana 交流群</em>
-</p>
-
-> [!TIP]
-> 如果二维码已过期，请提交 [Issue](https://github.com/BIT-DataLab/Edit-Banana/issues) 申请更新。
-
----
 
 ## 🤝 贡献指南
 
