@@ -51,6 +51,38 @@ Welcome to join our WeChat group to discuss and exchange ideas! Scan the QR code
 > [!TIP]
 > If the QR code has expired, please submit an [Issue](https://github.com/BIT-DataLab/Edit-Banana/issues) to request an updated one.
 
+
+## Leader
+
+### Guoren Wang
+
+**Professor · Doctoral Supervisor**
+
+`Database Systems` `Uncertain Data Management` `Multimedia Data Management` `Distributed Query Processing`
+
+[Faculty Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/1f3b4eb54a2545caa3b2cee7962737a2.htm)
+
+---
+
+### Ye Yuan
+
+**Professor · Doctoral Supervisor**
+
+`Big Data Management` `Graph Data Management` `Spatio-temporal Data` `Distributed Computing`
+
+[Faculty Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/872015590c7547eaa9ea4d7bed5f53fb.htm)
+
+---
+
+### Chengliang Chai
+
+**Associate Professor · Doctoral Supervisor**
+
+`Data-centric AI` `Large Language Models` `Data Lakes` `Database Systems`
+
+[Faculty Homepage →](https://cs.bit.edu.cn/szdw/jsml2/sjkxyzsgcyjs2/110325d289024176b20e6ec7953dd80b.htm)
+
+
 ## 📮 Contact Us
 For academic cooperation, technical docking, commercial licensing, project customization and other business inquiries, please contact us via email:
 > **E-mail: ccl@bit.edu.cn**
